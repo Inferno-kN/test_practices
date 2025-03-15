@@ -1,4 +1,4 @@
-from test_hw_1.main import Calculator
+from test_hw_1.Calculator import Calculator
 import pytest
 
 @pytest.mark.parametrize('value_left, value_right, expected',[
